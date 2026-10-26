@@ -1,0 +1,55 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    margin-top: 100px;
+}
+
+#timer {
+    font-size: 50px;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+#block {
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+.active {
+    background-color: blue;
+}
+body {
+    font-family: Arial, sans-serif;
+    padding: 30px;
+}
+
+#loginInput {
+    padding: 10px;
+    margin: 5px;
+}
+#checkBtn {
+     padding: 10px;
+    margin: 5px;
+}
+
+#userCard {
+    margin-top: 20px;
+}
+
+.user-card {
+    width: 280px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #f5f5f5;
+}
+
+#message {
+    color: red;
+}
